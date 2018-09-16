@@ -1,0 +1,48 @@
+Cells on water:1145
+Cells Estinguesh:155
+Total number of cells:3600
+Cells saved:-802
+______________________________
+Cells Estinguesh:159
+Total number of cells:3600
+______________________________
+Cells Estinguesh:158
+Total number of cells:3600
+______________________________
+Cells Estinguesh:714
+Total number of cells:3600
+______________________________
+Cells on water:1216
+Cells Estinguesh:672
+Total number of cells:3600
+______________________________
+Cells Estinguesh:577
+Cells Burned:2912
+Total number of cells:3600
+______________________________
+Cells Estinguesh:478
+Cells Burned:2981
+Total number of cells:3600
+______________________________
+Cells Estinguesh:85
+Cells Burned:3399
+Total number of cells:3600
+______________________________
+Cells Estinguesh:657
+Cells Burned:2853
+Total number of cells:3600
+______________________________
+Cells Estinguesh:675
+Cells Burned:2741
+Total number of cells:3600
+______________________________
+Cells Estinguesh:642
+Cells Burned:2759
+Total number of cells:3600
+______________________________
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+Cells Estinguesh:479
+Cells Burned:2971
+Total number of cells:3600
+______________________________
